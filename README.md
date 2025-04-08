@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **alii.a.ezat@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VyA7JbrguU37tSIcVgIYBx5ju55u0eXe/view?usp=sharing](https://drive.google.com/file/d/1VyA7JbrguU37tSIcVgIYBx5ju55u0eXe/view?usp=sharing)
+- 📄  [Know about my experiences](https://drive.google.com/file/d/10x1f25M3T8K5F7xobuF9ETk0Z3uG9RQf/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
