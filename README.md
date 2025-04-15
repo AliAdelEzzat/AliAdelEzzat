@@ -68,7 +68,7 @@ Welcome to the **Maji Ndogo: Visualizing the Currents of Change** project! This 
 This project was developed as part of the **ALX Data Analytics Program**. Special thanks to Explore AI Academy for providing the data and foundational guidance.
 
 # Egypt's Electricity Consumption: A Case Study Using Python and AI
-![Python](ttps://github.com/AliAdelEzzat/AliAdelEzzat/blob/811cbb0f81ac1ea318d8a20775e3265840b5534d/image_original.jpg)
+![Python](https://github.com/AliAdelEzzat/AliAdelEzzat/blob/811cbb0f81ac1ea318d8a20775e3265840b5534d/image_original.jpg)
 ## Overview
 This project examines the growing demand for electricity in Egypt, its implications on natural gas production, and uses predictive modeling to provide valuable insights. With electricity consumption rising due to population growth, economic development, and the adoption of household appliances, the residential sector leads in demand (37%), followed by public services (31%). This study emphasizes data-driven solutions to address these energy challenges.
 
