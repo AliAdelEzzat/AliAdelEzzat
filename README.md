@@ -66,3 +66,39 @@ Welcome to the **Maji Ndogo: Visualizing the Currents of Change** project! This 
 
 ## **Acknowledgments**
 This project was developed as part of the **ALX Data Analytics Program**. Special thanks to Explore AI Academy for providing the data and foundational guidance.
+
+# Egypt's Electricity Consumption: A Case Study Using Python and AI
+![Python]()https://github.com/AliAdelEzzat/AliAdelEzzat/blob/811cbb0f81ac1ea318d8a20775e3265840b5534d/image_original.jpg)
+## Overview
+This project examines the growing demand for electricity in Egypt, its implications on natural gas production, and uses predictive modeling to provide valuable insights. With electricity consumption rising due to population growth, economic development, and the adoption of household appliances, the residential sector leads in demand (37%), followed by public services (31%). This study emphasizes data-driven solutions to address these energy challenges.
+
+## Key Features
+- **Data Analysis**: Examined historical energy consumption data to identify trends and patterns.
+- **Prediction Model**: Used Python-based machine learning techniques to predict future electricity and natural gas demands.
+- **Visualization**: Created insightful plots to convey findings effectively.
+
+## Skills Demonstrated
+### Python Programming:
+- **Libraries Used**: 
+  - `pandas` for data manipulation.
+  - `matplotlib` and `seaborn` for data visualization.
+  - `sklearn` for machine learning and prediction modeling.
+- **Linear Regression**: Implemented regression techniques to predict natural gas consumption based on electricity demand trends.
+
+### LLM Integration:
+- **Code Optimization**: Used LLMs to refine Python scripts, ensuring efficiency and readability.
+- **Error Resolution**: Leveraged LLMs for debugging and refining predictive algorithms.
+- **Innovation**: Incorporated LLM suggestions to explore alternate approaches, enhancing prediction accuracy.
+
+## Files in the Repository
+- `data_analysis.py`: Contains scripts for data preprocessing, trend analysis, and visualization.
+- `prediction_model.py`: Implements the machine learning model and generates predictions.
+- `plots/`: A collection of visualizations showcasing trends and forecasts.
+
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/egypt-electricity-consumption
+   cd egypt-electricity-consumption
+
+
